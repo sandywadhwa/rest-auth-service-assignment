@@ -1,0 +1,22 @@
+{
+  "name": "rest-auth-service-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandywadhwa/rest-auth-service-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandywadhwa/rest-auth-service-assignment/issues"
+  },
+  "homepage": "https://github.com/sandywadhwa/rest-auth-service-assignment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
